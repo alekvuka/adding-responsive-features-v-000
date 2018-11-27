@@ -42,7 +42,7 @@
 
 }
 
-@media only screen and (max-width:800px) {
+@media only screen and (max-width: 800px) {
 
   #navbar nav a {
     font-size: 0.9em;
@@ -50,4 +50,17 @@
 
 }
 
-@media only 
+@media only screen and (max-width: 750px) {
+  col-1 {
+    
+  }
+
+  col-2 {
+    
+  }
+
+  col-3 {
+
+  }
+  
+}
